@@ -4,6 +4,7 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
+
 public class TicTacToe {
     public static final char DOT_X = 'X';
     public static final char DOT_O = 'O';
